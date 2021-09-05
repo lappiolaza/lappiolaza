@@ -2,7 +2,7 @@ package ejercicio6;
 
 public class Cajero {
 	private String nombre;
-		//agregar constructoers
+		//agregar constructoerslllllll
 	public Cajero(String str) {
 		nombre=str;
 	}
